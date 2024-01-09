@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1570235790 source:c:\users\tobman027\documents\programacion\c++\seicu\src\token.cpp
+	"Token.h"
+
+1570235784 c:\users\tobman027\documents\programacion\c++\seicu\include\token.h
+
+1673732880 source:c:\users\tobman027\documents\programacion\c++\seicu\main.cpp
+	<iostream>
+	<list>
+	"Board.h"
+	"Token.h"
+
+1673371932 c:\users\tobman027\documents\programacion\c++\seicu\include\board.h
+	<iostream>
+	<list>
+
+1673371948 source:c:\users\tobman027\documents\programacion\c++\seicu\src\board.cpp
+	"Board.h"
+
